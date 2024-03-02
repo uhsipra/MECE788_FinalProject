@@ -1,1 +1,2 @@
 # MECE788_FinalProject
+ This repository contains the final project for MECE788 - Applied Machine Learning at the University of Alberta. The project is a Kaggle competition to predict irregular ECG patterns. The dataset is provided at https://www.kaggle.com/datasets/shayanfazeli/heartbeat/data. The dataset contains 109446 records of ECG data, with 5 classes of irregular heartbeats. The ECG data has been sampled at a rate of 125Hz. The project is a multi-class classification problem, and the goal is to predict the class of the ECG data. 
