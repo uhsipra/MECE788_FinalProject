@@ -1,2 +1,38 @@
-# MECE788_FinalProject
- This repository contains the final project for MECE788 - Applied Machine Learning at the University of Alberta. The project is a Kaggle competition to predict irregular ECG patterns. The dataset is provided at https://www.kaggle.com/datasets/shayanfazeli/heartbeat/data. The dataset contains 109446 records of ECG data, with 5 classes of irregular heartbeats. The ECG data has been sampled at a rate of 125Hz. The project is a multi-class classification problem, and the goal is to predict the class of the ECG data. 
+# ECG Signal Classification Project
+
+## Overview
+This repository contains code for an ECG signal classification project using the MIT-BIH and PTB-XL datasets. The goal of this project is to develop machine learning models to classify ECG signals into different categories.
+
+## Dataset
+- **MIT-BIH Dataset**: [Link to dataset](insert_link_here)
+- **PTB-XL Dataset**: [Link to dataset](insert_link_here)
+
+## Repository Structure
+- **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project. All code files are in the form of Jupyter Notebook (.ipynb) files.
+
+## Installation
+1. Clone this repository:
+
+2. Install the required dependencies:
+
+## Usage
+1. Navigate to the `Best Model` directory:
+
+2. Open and run the Jupyter Notebook files to train and evaluate the model.
+
+## Results
+- **Best Model Performance**: Insert performance metrics (e.g., accuracy, precision, recall, F1-score) achieved by the best model.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork this repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any questions or inquiries, please contact [Your Name](mailto:your_email@example.com).
