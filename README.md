@@ -31,14 +31,6 @@ This repository contains code for an ECG signal classification project using the
 ## Results
 - **Best Model Performance**: Insert performance metrics (e.g., accuracy, precision, recall, F1-score) achieved by the best model.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
