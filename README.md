@@ -9,6 +9,14 @@ This repository contains code for an ECG signal classification project using the
 
 ## Repository Structure
 - **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project. All code files are in the form of Jupyter Notebook (.ipynb) files.
+  - **Best_Model_Training.ipynb**: Notebook file for training the best model.
+  - **Best_Model_Testing.ipynb**: Notebook file for testing the best model.
+  
+- **Research**: This folder contains research-related code and experiments.
+  - **Preprocessing**: Code for preprocessing ECG signals.
+  - **Baseline**: Code for baseline models.
+  - **MPA**: Code for models based on Multi-Perspective Aggregation.
+  - **Deep Learning**: Code for deep learning models.
 
 ## Installation
 1. Clone this repository:
