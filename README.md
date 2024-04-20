@@ -5,7 +5,7 @@ This repository contains code for an ECG signal classification project using the
 
 ## Dataset
 - **MIT-BIH Dataset**: [Link to dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
-- **PTB-XL Dataset**: [Link to dataset]([insert_link_here](https://physionet.org/content/ptb-xl/1.0.3/))
+- **PTB-XL Dataset**: [Link to dataset](https://physionet.org/content/ptb-xl/1.0.3)
 
 ## Repository Structure
 - **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project.
