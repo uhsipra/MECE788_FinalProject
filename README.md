@@ -45,11 +45,6 @@ This repository contains code for an ECG signal classification project using the
 
 5. For quick testing, we have saved the best models for each label [here](https://drive.google.com/drive/folders/19qW2sTTGEgtGelORTO6E72BxPzmWY3uS?usp=share_link).
 
-## Results
-- **Best Model Performance**: Insert performance metrics (e.g., accuracy, precision, recall, F1-score) achieved by the best model.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or inquiries, please contact [Your Name](mailto:your_email@example.com).
