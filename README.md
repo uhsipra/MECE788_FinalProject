@@ -3,7 +3,7 @@
 ## Overview
 This repository contains code for an ECG signal classification project using the MIT-BIH and PTB-XL datasets. The goal of this project is to develop machine learning models to classify ECG signals into different categories.
 
-## Dataset
+## Original Datasets
 - **MIT-BIH Dataset**: [Link to dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 - **PTB-XL Dataset**: [Link to dataset](https://physionet.org/content/ptb-xl/1.0.3)
 
@@ -34,15 +34,23 @@ This repository contains code for an ECG signal classification project using the
 
 - **Model Card**: This folder contains the model card for the best performing model achieved in the project.  
 
-## Usage
-1. Navigate to the `Best Model` directory:
+## Best Model Training and Evaluation
+1. Navigate to the `Best Model` directory
 
-2. Download the preprocessed dataset via the following [link](https://drive.google.com/drive/folders/1gspRgYy7IqPXUGf9qrZv3zyfNWuYgk6y?usp=share_link)
+2. Download the preprocessed PTB-XL dataset via the following [link](https://drive.google.com/drive/folders/1gspRgYy7IqPXUGf9qrZv3zyfNWuYgk6y?usp=share_link)
 
 3. Open and run the Jupyter Notebook files to train and evaluate the model.
 
 4. For quick testing, we have saved the best models for each label [here](https://drive.google.com/drive/folders/19qW2sTTGEgtGelORTO6E72BxPzmWY3uS?usp=share_link).
 
+## Research Models Training and Evaluation
+1. Navigate to the `Research` directory
+
+2. Download the [preprocessed PTB-XL/MIT dataset](https://drive.google.com/drive/folders/19qW2sTTGEgtGelORTO6E72BxPzmWY3uS?usp=share_link) depending on the model of interest
+
+3. For quick testing, all best models have been saved and uploaded [here](https://drive.google.com/drive/folders/1meBa_5JXBT_d194f7humIHeEnVakdczi?usp=share_link). The saved model structure is the same as this repositories structure. Navigate to the model of interest and download the saved model.
+
+4. Ensure any naming conventions and dataset/model placements within the directory are compliant with the training/testing files.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
