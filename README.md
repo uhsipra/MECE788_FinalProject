@@ -32,7 +32,9 @@ This repository contains code for an ECG signal classification project using the
               Each notebook is crafted to provide a seamless experience, from setting up the computing environment to the final assessment of the models' performance.
   - **Deep Learning**: Code for deep learning model used to train and test MIT dataset.
 
-- **Model Card**: This folder contains the model card for the best performing model achieved in the project.  
+- **Model Card**: This folder contains the model card for the best performing model achieved in the project.
+
+- **Architecture diagrams - Next steps**: This folder contains the flowchart for our architecture diagram and next steps.
 
 ## Best Model Training and Evaluation
 1. Navigate to the `Best Model` directory
