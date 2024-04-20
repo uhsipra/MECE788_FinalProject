@@ -4,24 +4,21 @@
 This repository contains code for an ECG signal classification project using the MIT-BIH and PTB-XL datasets. The goal of this project is to develop machine learning models to classify ECG signals into different categories.
 
 ## Dataset
-- **MIT-BIH Dataset**: [Link to dataset](insert_link_here)
-- **PTB-XL Dataset**: [Link to dataset](insert_link_here)
+- **MIT-BIH Dataset**: [Link to dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
+- **PTB-XL Dataset**: [Link to dataset]([insert_link_here](https://physionet.org/content/ptb-xl/1.0.3/))
 
 ## Repository Structure
-- **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project. All code files are in the form of Jupyter Notebook (.ipynb) files.
+- **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project.
   - **Best_Model_Training.ipynb**: Notebook file for training the best model.
   - **Best_Model_Testing.ipynb**: Notebook file for testing the best model.
   
-- **Research**: This folder contains research-related code and experiments.
-  - **Preprocessing**: Code for preprocessing ECG signals.
-  - **Baseline**: Code for baseline models.
-  - **MPA**: Code for models based on Multi-Perspective Aggregation.
-  - **Deep Learning**: Code for deep learning models.
+- **Research**: This folder contains all file related to the data preprocessing and various models tested in the project.
+  - **Preprocessing**: Code for preprocessing the PTB-XL dataset. The MIT dataset comes preprocessed by default via kaggle.
+  - **Baseline**: Code for baseline models including KNN, SVM, and XGBoost.
+  - **MPA**: Code for models based on the Marine Predators algorithm optimization including KNN, SVM, and Random Forest.
+  - **Deep Learning**: Code for deep learning model used to train and test MIT dataset.
 
-## Installation
-1. Clone this repository:
-
-2. Install the required dependencies:
+- **Model Card**: This folder contains the model card for the best performing model achieved in the project.  
 
 ## Usage
 1. Navigate to the `Best Model` directory:
