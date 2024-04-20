@@ -39,11 +39,9 @@ This repository contains code for an ECG signal classification project using the
 
 2. Download the preprocessed dataset via the following [link](https://drive.google.com/drive/folders/1gspRgYy7IqPXUGf9qrZv3zyfNWuYgk6y?usp=share_link)
 
-3. Rename the dataset to ""
+3. Open and run the Jupyter Notebook files to train and evaluate the model.
 
-4. Open and run the Jupyter Notebook files to train and evaluate the model.
-
-5. For quick testing, we have saved the best models for each label [here](https://drive.google.com/drive/folders/19qW2sTTGEgtGelORTO6E72BxPzmWY3uS?usp=share_link).
+4. For quick testing, we have saved the best models for each label [here](https://drive.google.com/drive/folders/19qW2sTTGEgtGelORTO6E72BxPzmWY3uS?usp=share_link).
 
 
 ## License
