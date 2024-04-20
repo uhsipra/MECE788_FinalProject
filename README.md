@@ -9,8 +9,8 @@ This repository contains code for an ECG signal classification project using the
 
 ## Repository Structure
 - **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project.
-  - **Best_Model_Training.ipynb**: Notebook file for training the best model.
-  - **Best_Model_Testing.ipynb**: Notebook file for testing the best model.
+  - **Train_finetuned_per_label.ipynb**: Notebook file for training the best model.
+  - **Evaluate_finetuned_all_label.ipynb**: Notebook file for testing the best model.
   
 - **Research**: This folder contains all file related to the data preprocessing and various models tested in the project.
   - **Preprocessing**: Code for preprocessing the PTB-XL dataset. The MIT dataset comes preprocessed by default via kaggle.
