@@ -46,7 +46,7 @@ This repository contains code for an ECG signal classification project using the
 ## Research Models Training and Evaluation
 1. Navigate to the `Research` directory
 
-2. Download the [preprocessed PTB-XL/MIT dataset](https://drive.google.com/drive/folders/19qW2sTTGEgtGelORTO6E72BxPzmWY3uS?usp=share_link) depending on the model of interest
+2. Download the [preprocessed PTB-XL/MIT dataset](https://drive.google.com/drive/folders/1gspRgYy7IqPXUGf9qrZv3zyfNWuYgk6y?usp=share_link) depending on the model of interest
 
 3. For quick testing, all best models have been saved and uploaded [here](https://drive.google.com/drive/folders/1meBa_5JXBT_d194f7humIHeEnVakdczi?usp=share_link). The saved model structure is the same as this repositories structure. Navigate to the model of interest and download the saved model.
 
