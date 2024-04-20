@@ -51,6 +51,3 @@ This repository contains code for an ECG signal classification project using the
 3. For quick testing, all best models have been saved and uploaded [here](https://drive.google.com/drive/folders/1meBa_5JXBT_d194f7humIHeEnVakdczi?usp=share_link). The saved model structure is the same as this repositories structure. Navigate to the model of interest and download the saved model.
 
 4. Ensure any naming conventions and dataset/model placements within the directory are compliant with the training/testing files.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
