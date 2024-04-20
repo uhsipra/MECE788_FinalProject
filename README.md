@@ -11,6 +11,7 @@ This repository contains code for an ECG signal classification project using the
 - **Best Model**: This folder contains the training and evaluation code for the best performing model achieved in the project.
   - **Train_finetuned_per_label.ipynb**: Notebook file for training the best model.
   - **Evaluate_finetuned_all_label.ipynb**: Notebook file for testing the best model.
+  - **Preprocessed PTB-XL dataset**: We have added a link to the preprocessed [PTB-XL dataset](https://drive.google.com/drive/folders/1gspRgYy7IqPXUGf9qrZv3zyfNWuYgk6y?usp=share_link) used in training and testing the best model. 
   
 - **Research**: This folder contains all file related to the data preprocessing and various models tested in the project.
   - **Preprocessing**: Code for preprocessing the PTB-XL dataset. The MIT dataset comes preprocessed by default via kaggle.
