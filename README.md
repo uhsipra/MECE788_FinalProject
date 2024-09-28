@@ -3,6 +3,9 @@
 ## Overview
 This repository contains code for an ECG signal classification project using the MIT-BIH and PTB-XL datasets. The goal of this project is to develop machine learning models to classify ECG signals into different categories.
 
+## Presenation
+Link to the [ECG Comparative Study Presentation](https://docs.google.com/presentation/d/17Z0It3j6ZFUSpUKTN9WSu2qmxziuwBmFdwmvHddCrnI/edit?usp=sharing)
+
 ## Original Datasets
 - **MIT-BIH Dataset**: [Link to dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
 - **PTB-XL Dataset**: [Link to dataset](https://physionet.org/content/ptb-xl/1.0.3)
